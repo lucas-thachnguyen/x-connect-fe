@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "xabikos.reactsnippets",
+    "xabikos.javascriptsnippets",
+    "sibiraj-s.vscode-scss-formatter",
+    "coenraads.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+  ]
+}

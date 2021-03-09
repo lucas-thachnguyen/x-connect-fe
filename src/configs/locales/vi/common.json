@@ -1,0 +1,11 @@
+{
+    "welcome": {
+        "title": "Welcome to {{framework}}"
+    },
+    "section": "{{title}} Nyheder fra",
+    "menu": {
+        "notification": "Thông báo",
+        "profile": "Hồ sơ cá nhân",
+        "setting": "Quản lý cài đặt"
+    }
+}
